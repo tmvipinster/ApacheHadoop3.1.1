@@ -1,9 +1,5 @@
-# Creates pseudo distributed hadoop
-#
-# docker build -t tmvipin/hadoop .
-
 FROM centos:7
-MAINTAINER VIPIN THAZHE MADAM
+MAINTAINER Vipin
 
 USER root
 
